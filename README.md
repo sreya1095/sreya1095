@@ -1,4 +1,16 @@
 ## Hi there 👋
+Hi, I'm Sheyaa 👋  
+IT Student | Java Developer | Learning Web Dev  
+
+### Skills:
+- Java
+- HTML, CSS
+- JavaScript (learning)
+
+### Projects:
+- Java Practice Repo
+- Portfolio Website
+
 
 <!--
 **sreya1095/sreya1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
