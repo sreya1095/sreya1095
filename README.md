@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Sheyaa 👋  
+I'm Shreya  
 IT Student | Java Developer | Learning Web Dev  
 
 ### Skills:
