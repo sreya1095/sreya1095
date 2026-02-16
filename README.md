@@ -1,16 +1,48 @@
-## Hi there 👋
-I'm Shreya  
-IT Student | Java Developer | Learning Web Dev  
+## 👋 Hi there, I'm Shreya
 
-### Skills:
-- Java
-- HTML, CSS
-- JavaScript (learning)
+🎓 **IT Student** | ☕ **Java Developer** | 🌐 **Aspiring Web Developer**
 
-### Projects:
-- Java Practice Repo
-- Portfolio Website
+---
 
+### 🚀 About Me
+
+* 💻 Passionate about coding and problem solving
+* 📚 Currently strengthening **Java fundamentals** and **Data Structures basics**
+* 🌱 Learning **Web Development** step-by-step
+* 🎯 Goal: Crack placements with strong programming + project skills
+
+---
+
+### 🛠️ Skills
+
+* **Programming:** Java
+* **Web:** HTML, CSS
+* **Learning:** JavaScript, Git & GitHub
+
+---
+
+### 📂 Projects
+
+* 🔹 **Java Practice Repository** — Daily coding programs covering basics, arrays, strings, OOP, and more
+* 🔹 **Portfolio Website** — Personal portfolio showcasing skills and progress
+
+---
+
+### 📈 Currently Working On
+
+* Improving problem-solving skills
+* Practicing coding daily
+* Building mini projects
+
+---
+
+### 📫 Connect With Me
+
+* GitHub: https://github.com/sreya1095
+
+---
+
+⭐ *Consistency + Practice + Projects = Success*
 
 <!--
 **sreya1095/sreya1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
