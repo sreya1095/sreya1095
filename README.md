@@ -17,7 +17,7 @@
 
 * **Programming:** Java
 * **Web:** HTML, CSS
-* **Learning:** JavaScript, Git & GitHub
+* **Learning:** JavaScript, Git & GitHub, Linux Basics
 
 ---
 
