@@ -1,60 +1,105 @@
-## 👋 Hi there, I'm Shreya
+# 👋 Hi, I'm Srreya
 
-🎓 **IT Student** | ☕ **Java Developer** | 🌐 **Aspiring Web Developer**
-
----
-
-### 🚀 About Me
-
-* 💻 Passionate about coding and problem solving
-* 📚 Currently strengthening **Java fundamentals** and **Data Structures basics**
-* 🌱 Learning **Web Development** step-by-step
-* 🎯 Goal: Crack placements with strong programming + project skills
+🎓 IT Student | ☕ Java Developer | 🌐 Aspiring Full Stack Developer  
 
 ---
 
-### 🛠️ Skills
+## 🚀 About Me
 
-* **Programming:** Java
-* **Web:** HTML, CSS
-* **Learning:** JavaScript, Git & GitHub, Linux Basics
-
----
-
-### 📂 Projects
-
-* 🔹 **Java Practice Repository** — Daily coding programs covering basics, arrays, strings, OOP, and more
-* 🔹 **Portfolio Website** — Personal portfolio showcasing skills and progress
+💻 Passionate about coding, logic building, and continuous improvement  
+📚 Currently strengthening **Java Fundamentals & Data Structures**  
+🌱 Learning **Web Development (HTML, CSS, JavaScript)** step-by-step  
+🐧 Practicing **Linux & Git** for better development workflow  
+🎯 Goal: Crack placements with strong problem-solving skills + real projects  
 
 ---
 
-### 📈 Currently Working On
+## 🛠️ Tech Stack
 
-* Improving problem-solving skills
-* Practicing coding daily
-* Building mini projects
+### 💻 Programming
+- Java  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- Currently Learning: JavaScript  
+
+### 🔧 Tools & Technologies
+- Git  
+- GitHub  
+- Linux Basics  
+- VS Code  
 
 ---
 
-### 📫 Connect With Me
+## 📂 Featured Repositories
 
-* GitHub: https://github.com/sreya1095
+🔹 **Java Practice Repository**  
+Daily structured coding practice covering:
+- Basics  
+- Arrays  
+- Strings  
+- Recursion  
+- OOP Concepts  
+- Collections Framework  
+
+🔹 **LeetCode Solutions Repository**  
+- Pattern-based DSA practice  
+- Time & Space Complexity focused solutions  
+- Easy → Medium progression  
+
+🔹 **Linux Practice Repository**  
+- Terminal commands  
+- Real-world usage examples  
+- Daily command documentation  
+
+🔹 **Portfolio Website**  
+Personal portfolio showcasing skills, learning journey & projects  
 
 ---
 
-⭐ *Consistency + Practice + Projects = Success*
+## 📈 Currently Working On
+
+✔ Improving problem-solving skills  
+✔ Practicing DSA daily  
+✔ Writing cleaner and optimized Java code  
+✔ Building small real-world projects  
+✔ Strengthening Git workflow using branches & pull requests  
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Master Data Structures & Algorithms  
+- 💼 Secure Internship / Placement Opportunity  
+- 🌐 Build Full Stack Projects  
+- 🧠 Improve System Thinking & Problem Solving  
+- 🔥 Maintain Daily GitHub Contributions  
+
+---
+
+## 📊 GitHub Goals
+
+Consistency > Motivation  
+
+- Daily commits  
+- Meaningful commit messages  
+- Structured repositories  
+- Clean README documentation  
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/sreya1095  
+
+---
+
+⭐ **Consistency + Practice + Clean Code + Projects = Strong Developer Profile**
+
+---
 
 <!--
-**sreya1095/sreya1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+This repository is special because its README.md appears on my GitHub profile.
+I use it to track my learning journey and growth as a developer.
 -->
