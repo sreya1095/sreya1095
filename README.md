@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Srreya
+# 👋 Hi, I'm Sreya
 
 🎓 IT Student | ☕ Java Developer | 🌐 Aspiring Full Stack Developer  
 
