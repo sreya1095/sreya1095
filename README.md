@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrey
+# 👋 Hi, I'm Sreya
 
 🎓 IT Student | ☕ Java Developer | 🚀 Continuous Learner
 
