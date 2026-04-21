@@ -1,105 +1,66 @@
-# 👋 Hi, I'm Sreya
+# 👋 Hi, I'm Shrey
 
-🎓 IT Student | ☕ Java Developer | 🌐 Aspiring Full Stack Developer  
+🎓 IT Student | ☕ Java Developer | 🚀 Continuous Learner
 
 ---
 
 ## 🚀 About Me
 
-💻 Passionate about coding, logic building, and continuous improvement  
-📚 Currently strengthening **Java Fundamentals & Data Structures**  
-🌱 Learning **Web Development (HTML, CSS, JavaScript)** step-by-step  
-🐧 Practicing **Linux & Git** for better development workflow  
-🎯 Goal: Crack placements with strong problem-solving skills + real projects  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-- Java  
-
-### 🌐 Web Development
-- HTML  
-- CSS  
-- Currently Learning: JavaScript  
-
-### 🔧 Tools & Technologies
-- Git  
-- GitHub  
-- Linux Basics  
-- VS Code  
+💻 **Java Specialist:** Currently focusing on mastering Java and Data Structures.
+🧠 **Problem Solver:** Contributing daily to my Java practice and LeetCode repositories.
+🌐 **Tech Explorer:** Recently branched out to build a full-stack project, **Precify**, using FastAPI and React to understand modern web architecture.
+🎯 **Goal:** Combining strong backend logic (Java) with practical full-stack development skills.
 
 ---
 
 ## 📂 Featured Repositories
 
-🔹 **Java Practice Repository**  
-Daily structured coding practice covering:
-- Basics  
-- Arrays  
-- Strings  
-- Recursion  
-- OOP Concepts  
-- Collections Framework  
+### ☕ [Java-Practice](https://github.com/shrey1095/java-practice)
+*My daily hub for Java programming.*
+- **Focus:** OOPs concepts, Collections Framework, and Java Fundamentals.
+- **Goal:** Maintaining a daily streak of clean, well-documented Java code.
 
-🔹 **LeetCode Solutions Repository**  
-- Pattern-based DSA practice  
-- Time & Space Complexity focused solutions  
-- Easy → Medium progression  
+### 🧩 [LeetCode-Solutions](https://github.com/shrey1095/leetcode-solutions)
+*Tracking my journey through Data Structures and Algorithms.*
+- **Progress:** Solving pattern-based problems (Arrays, Strings, Recursion).
+- **Strategy:** Focusing on optimizing Time and Space complexity.
 
-🔹 **Linux Practice Repository**  
-- Terminal commands  
-- Real-world usage examples  
-- Daily command documentation  
-
-🔹 **Portfolio Website**  
-Personal portfolio showcasing skills, learning journey & projects  
+### 🛍️ [Precify - Price Comparison Engine](https://github.com/shrey1095/Precify)
+*A full-stack project built to learn system integration.*
+- **The Stack:** Built using **FastAPI (Python)** and **React**.
+- **Database:** Managed via **Supabase (PostgreSQL)** with secure Row Level Security.
+- **The Logic:** Compares real-world product data across Amazon, Flipkart, and Ajio.
 
 ---
 
-## 📈 Currently Working On
+## 🛠️ Tech Stack
 
-✔ Improving problem-solving skills  
-✔ Practicing DSA daily  
-✔ Writing cleaner and optimized Java code  
-✔ Building small real-world projects  
-✔ Strengthening Git workflow using branches & pull requests  
+### 💻 Primary Skills
+- **Java** (Intermediate: OOPs, Logic Building)
+- **SQL** (PostgreSQL / Supabase)
+- **Data Structures & Algorithms** (Daily Practice)
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Master Data Structures & Algorithms  
-- 💼 Secure Internship / Placement Opportunity  
-- 🌐 Build Full Stack Projects  
-- 🧠 Improve System Thinking & Problem Solving  
-- 🔥 Maintain Daily GitHub Contributions  
+### ⚙️ Explored in Projects
+- **Backend:** FastAPI (Python)
+- **Frontend:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Linux
 
 ---
 
-## 📊 GitHub Goals
+## 📊 GitHub Stats & Goals
 
-Consistency > Motivation  
+"Consistency > Motivation"
 
-- Daily commits  
-- Meaningful commit messages  
-- Structured repositories  
-- Clean README documentation  
+✔ **Daily Commits:** Practicing Java every single day.
+✔ **Meaningful Code:** Writing code that is easy to read and maintain.
+✔ **Learning Journey:** Documenting everything I learn on the go.
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 GitHub: https://github.com/sreya1095  
+🔗 **GitHub:** [github.com/shrey1095](https://github.com/shrey1095)  
 
 ---
 
-⭐ **Consistency + Practice + Clean Code + Projects = Strong Developer Profile**
-
----
-
-<!--
-This repository is special because its README.md appears on my GitHub profile.
-I use it to track my learning journey and growth as a developer.
--->
+⭐ **"Success is the sum of small efforts, repeated day in and day out."**
